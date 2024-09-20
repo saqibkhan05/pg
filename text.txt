@@ -1,0 +1,12 @@
+Wsbsite
+
+web app
+    - Sign-up 
+    - login (JWT)
+    - PG (CRUD)
+    - Hotel (CRUD)
+
+
+Mobile App
+    - Layout
+    
